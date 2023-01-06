@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <row>
+        <id>1</id>
+        <location>Santiago</location>
+        <date>2023-05-25</date>
+        <measure>30.5</measure>
+    </row>
+    <row>
+        <id>2</id>
+        <location>Madrid</location>
+        <date>2023-05-25</date>
+        <measure>22.3</measure>
+    </row>
+     <row>
+        <id>3</id>
+        <location>Tokyo</location>
+        <date>2023-05-25</date>
+        <measure>29.5</measure>
+    </row>
+</data>

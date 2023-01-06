@@ -1,0 +1,8 @@
+{
+    "location": "Santo Domingo",
+    "measures": [
+      {"date": "2023-05-25", "temperature": 37.5},
+      {"date": "2023-05-25", "temperature": 16.2},
+      {"date": "2023-05-25", "temperature": 24.3}
+    ]
+  }
