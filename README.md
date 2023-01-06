@@ -4,4 +4,4 @@ This project provides a solution for calculating the minimum, maximum, and avera
 
 # UML Diagram 
 
-(sample-files/templateMethodDiagram.png)
+![templateMethodDiagram](https://user-images.githubusercontent.com/72618063/211102829-1e92aefc-48a7-4a18-98bc-90a6dbcf9584.png)
